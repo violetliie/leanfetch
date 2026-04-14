@@ -101,4 +101,4 @@ opens at `http://localhost:5173`
 
 ---
 
-built by [ronniel gandhe](https://github.com/ronnielgandhe) and [violet li](https://github.com/violetliie)
+built by  [violet li](https://github.com/violetliie) and [ronniel gandhe](https://github.com/ronnielgandhe)
